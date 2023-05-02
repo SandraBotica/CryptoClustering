@@ -24,8 +24,8 @@ Open the following file <Crypto_Clustering.ipynb>
  - Questions answered in a markdown block.
  - The PCA data was plotted as a scatter plot using the predicted cluster groups.
 
-4. Composite plote for the elbow plot and scatter plots were created to visualise and compare the data.
- -  - Questions answered in a markdown block.
+4. Composite plots for the elbow plot and scatter plots were created to visualise and compare the data.
+ - Questions answered in a markdown block.
 
 ### Enjoy marking!
 ### Sandra
